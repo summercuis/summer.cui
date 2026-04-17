@@ -12,9 +12,13 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Summer Cui/ Summer Cui"
 title_separator          : "-"
 name                     : &name "Summer"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+description              : &description "Your Name's academic portfolio"   # Summer's work sits at the intersection of philosophy of education, digital culture, and social theory. She is interested in how education, technology, work, and public life shape human lives and self-understanding, with particular interests in generative AI in education, postdigital education, international student experience, educational professionalism, work and occupation, and questions of death and finitude.
+
+Her doctoral research examines how Chinese international students in Australian higher education engage with generative AI, and how this is connected to their ways of being, doing, and knowing as students. More broadly, her research explores how stories, technologies, institutions, and policy shape everyday life, belonging, judgment, and the meaning of education.
+
+Summer teaches across environmental education, education policy, and digital transformations in higher education. She has also worked extensively in English language education in China and Australia, with experience across English language education, vocational training and educaiton, and higher education contexts. Her research combines conceptual inquiry with qualitative and interpretive approaches, and is particularly attentive to the relationship between human life, education, and contemporary technological change.
+url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://summercuis.github.io",
+                                                           # or if you already have some other page hosted on Github then use "https://summercuis.github.io/summer.cui"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
