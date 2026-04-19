@@ -13,7 +13,7 @@ title                    : "Summer Cui"
 title_separator          : "-"
 name                     : &name "Summer Shengmeng Cui"
 description              : &description "A researcher of educational theory and philosophy"   #
-url                      : "https://summercuis.github.io" The base hostname & protocol for your site e.g. "https://summercuis.github.io",
+url                      : "https://summercuis.github.io"
                                                            
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "summercuis.github.io"
